@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+}
+header {
+  background-color: red;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cont {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
